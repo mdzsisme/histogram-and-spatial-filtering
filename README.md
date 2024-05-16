@@ -1,4 +1,8 @@
 # histogram-and-spatial-filtering
+Using the OpenCV library in the Python programming language, I created a program to perform the following processes:
+● Histogram Equalization
+● Spatial Smoothing
+● Spatial Sharpening
 
 Image:
 ![image](https://github.com/mdzsisme/histogram-and-spatial-filtering/assets/112488730/09516335-c313-4e06-b000-f73d9c630bb6)
